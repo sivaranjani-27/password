@@ -1,1 +1,5 @@
 hello this is first file
+
+int a=34;
+int b=56;
+print(a+b)
